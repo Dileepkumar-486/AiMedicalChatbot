@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+Pillow
+langchain
+langchain-community
+langchain-huggingface
+huggingface_hub
+ctransformers
+faiss-cpu
+sentence-transformers
